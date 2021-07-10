@@ -22,12 +22,12 @@ dependencies:
 
 dev_dependencies:
   # https://pub.dev/packages/moor_generator
-  moor_generator: ^4.2.1
+  moor_generator: ^4.1.0
   # https://pub.dev/packages/build_runner
   build_runner: ^2.0.1
   # https://pub.dev/packages/pedantic
   pedantic: ^1.11.0
-  # https://pub.dev/packages/sqlite3
+  # https://pub.dev/packages/sqlite3flu
   sqlite3: ^1.0.0
   # https://pub.dev/packages/test
   test: ^1.16.8
